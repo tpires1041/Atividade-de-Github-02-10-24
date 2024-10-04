@@ -1,2 +1,4 @@
-let nome = document.getElementById("nome").value
-
+let descobrirNome = function(){
+    let nome = document.getElementById("nome").value
+    
+};
